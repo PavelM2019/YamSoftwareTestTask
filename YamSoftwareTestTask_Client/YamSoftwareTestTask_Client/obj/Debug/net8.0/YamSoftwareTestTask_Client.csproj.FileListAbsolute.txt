@@ -1,0 +1,17 @@
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\bin\Debug\net8.0\YamSoftwareTestTask_Client.exe
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\bin\Debug\net8.0\YamSoftwareTestTask_Client.deps.json
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\bin\Debug\net8.0\YamSoftwareTestTask_Client.runtimeconfig.json
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\bin\Debug\net8.0\YamSoftwareTestTask_Client.dll
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\bin\Debug\net8.0\YamSoftwareTestTask_Client.pdb
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.csproj.AssemblyReference.cache
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.AssemblyInfoInputs.cache
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.AssemblyInfo.cs
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.csproj.CoreCompileInputs.cache
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftw.D9044088.Up2Date
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.dll
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\refint\YamSoftwareTestTask_Client.dll
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.pdb
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\YamSoftwareTestTask_Client.genruntimeconfig.cache
+D:\work\TestTasks\YamSoftware\YamSoftwareTestTask_Client\YamSoftwareTestTask_Client\obj\Debug\net8.0\ref\YamSoftwareTestTask_Client.dll

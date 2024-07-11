@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lbNlAleAlZhqGhEkVOqjR4X/AD4VtvoMc3fkcMS2Wa0=",
+  "Source": "YamSoftwareTestTaskREST_API",
+  "BasePath": "_content/YamSoftwareTestTaskREST_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

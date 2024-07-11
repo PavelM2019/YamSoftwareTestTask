@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\YamSoftwareTestTaskREST_API.props" />
+</Project>
